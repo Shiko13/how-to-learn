@@ -6,7 +6,7 @@
   /* выше установили ограничение по максимальной ширине */
   margin: 0 auto;
   /* выше для экранов больше 1600px отцентрировали весь контент */
-  font-family: 'Helvetica Neue', Arial, sans-serif;
+  font-family: "Helvetica Neue", Arial, sans-serif;
 }
 
 .header {
@@ -91,7 +91,7 @@
 .two_columns {
   display: flex;
   justify-content: space-between;
-  width: 80%; 
+  width: 80%;
 }
 
 .two_columns__brief {
@@ -117,7 +117,7 @@
   margin-bottom: 30px;
 }
 
-.two_columns__paragraph:nth-child(:last-of-type) {
+.two_columns__paragraph:last-of-type {
   margin-bottom: 0;
 }
 
