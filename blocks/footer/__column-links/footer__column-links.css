@@ -1,0 +1,13 @@
+.footer__column-links {
+  padding: 0;
+  margin-bottom: 16px;
+  margin-top: 0;
+}
+
+.footer__column-links a {
+  color: #fff;
+  text-decoration: none;
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: normal;
+}
