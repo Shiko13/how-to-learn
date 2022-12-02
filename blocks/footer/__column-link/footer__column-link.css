@@ -1,3 +1,7 @@
 .footer__column-link {
   list-style: none;
 }
+
+.footer__column-link:hover {
+  opacity: 0.5;
+}
