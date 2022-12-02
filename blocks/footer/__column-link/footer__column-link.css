@@ -1,5 +1,6 @@
 .footer__column-link {
   list-style: none;
+  transition: opacity 2s linear;
 }
 
 .footer__column-link:hover {
